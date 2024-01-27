@@ -14,7 +14,7 @@
 <h4 align="left"> DataBase </h4>
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AmazonDynamoDB-4053D6?style=flat-square&logo=Amazon DynamoDB&logoColor=white"/></a>&nbsp   
 
 <h4 align="left"> DevOps </h4>
